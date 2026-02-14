@@ -1,6 +1,4 @@
-{
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install"
+﻿{
+  "buildCommand": "bash vercel-build.sh",
+  "outputDirectory": "dist"
 }
