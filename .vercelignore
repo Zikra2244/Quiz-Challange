@@ -1,0 +1,8 @@
+﻿# File dan folder yang tidak perlu diupload
+node_modules
+.git
+.DS_Store
+README.md
+*.log
+.vscode
+.idea
